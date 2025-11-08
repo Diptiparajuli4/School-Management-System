@@ -4,23 +4,6 @@ COMPLETE TECHNICAL DOCUMENTATION
 PROJECT OVERVIEW
 This is a comprehensive School Management System built with PHP, MySQL, and Bootstrap. The system provides a complete solution for managing school operations including student information, staff management, attendance tracking, and administrative functions.
 
-PROJECT STRUCTURE
-school-management-system/
-├── .dist/                    # Distribution files
-├── admin/                    # Admin panel
-│   └── partials/            # Admin partial templates
-├── config/                  # Configuration files
-├── css/                     # Stylesheets
-├── images/                  # Image assets
-│   └── food/               # Food-related images
-├── index.php               # Main homepage
-├── login.php               # Login page
-├── DB_connection.php       # Database connection
-├── data/
-│   └── setting.php         # Settings management
-└── req/
-    └── contact.php         # Contact form handler
-
 CORE FEATURES
 
 Public Features (index.php)
@@ -214,17 +197,7 @@ Minimum Requirements
 - MySQL 5.7+
 - 512MB RAM
 - 100MB disk space
-
-Recommended Requirements
-- PHP 8.0+
-- MySQL 8.0+
-- 1GB RAM
-- 1GB disk space
-
-LICENSE AND COPYRIGHT
-This school management system is proprietary software. All rights reserved by the development team. Unauthorized distribution or modification is prohibited.
-
----
+  
 Document Version: 1.0
 Last Updated: 2024
-Contact: System Administrator
+Contact: Dipti Parajuli
